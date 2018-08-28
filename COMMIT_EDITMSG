@@ -1,0 +1,93 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch master
+#
+# Initial commit
+#
+# Changes to be committed:
+#	new file:   IntelliJIDEAProjects/Sorteio/.gitignore
+#	new file:   IntelliJIDEAProjects/Sorteio/.idea/caches/build_file_checksums.ser
+#	new file:   IntelliJIDEAProjects/Sorteio/.idea/gradle.xml
+#	new file:   IntelliJIDEAProjects/Sorteio/.idea/misc.xml
+#	new file:   IntelliJIDEAProjects/Sorteio/app/.gitignore
+#	new file:   IntelliJIDEAProjects/Sorteio/app/build.gradle
+#	new file:   IntelliJIDEAProjects/Sorteio/app/proguard-rules.pro
+#	new file:   IntelliJIDEAProjects/Sorteio/app/src/androidTest/java/sorteio/app/ban/sorteio/ExampleInstrumentedTest.kt
+#	new file:   IntelliJIDEAProjects/Sorteio/app/src/main/AndroidManifest.xml
+#	new file:   IntelliJIDEAProjects/Sorteio/app/src/main/java/sorteio/app/ban/sorteio/MainActivity.kt
+#	new file:   IntelliJIDEAProjects/Sorteio/app/src/main/res/drawable-v24/ic_launcher_foreground.xml
+#	new file:   IntelliJIDEAProjects/Sorteio/app/src/main/res/drawable/ic_launcher_background.xml
+#	new file:   IntelliJIDEAProjects/Sorteio/app/src/main/res/layout/activity_main.xml
+#	new file:   IntelliJIDEAProjects/Sorteio/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml
+#	new file:   IntelliJIDEAProjects/Sorteio/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml
+#	new file:   IntelliJIDEAProjects/Sorteio/app/src/main/res/mipmap-hdpi/ic_launcher.png
+#	new file:   IntelliJIDEAProjects/Sorteio/app/src/main/res/mipmap-hdpi/ic_launcher_round.png
+#	new file:   IntelliJIDEAProjects/Sorteio/app/src/main/res/mipmap-mdpi/ic_launcher.png
+#	new file:   IntelliJIDEAProjects/Sorteio/app/src/main/res/mipmap-mdpi/ic_launcher_round.png
+#	new file:   IntelliJIDEAProjects/Sorteio/app/src/main/res/mipmap-xhdpi/ic_launcher.png
+#	new file:   IntelliJIDEAProjects/Sorteio/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png
+#	new file:   IntelliJIDEAProjects/Sorteio/app/src/main/res/mipmap-xxhdpi/ic_launcher.png
+#	new file:   IntelliJIDEAProjects/Sorteio/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png
+#	new file:   IntelliJIDEAProjects/Sorteio/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png
+#	new file:   IntelliJIDEAProjects/Sorteio/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png
+#	new file:   IntelliJIDEAProjects/Sorteio/app/src/main/res/values/colors.xml
+#	new file:   IntelliJIDEAProjects/Sorteio/app/src/main/res/values/strings.xml
+#	new file:   IntelliJIDEAProjects/Sorteio/app/src/main/res/values/styles.xml
+#	new file:   IntelliJIDEAProjects/Sorteio/app/src/test/java/sorteio/app/ban/sorteio/ExampleUnitTest.kt
+#	new file:   IntelliJIDEAProjects/Sorteio/build.gradle
+#	new file:   IntelliJIDEAProjects/Sorteio/gradle.properties
+#	new file:   IntelliJIDEAProjects/Sorteio/gradle/wrapper/gradle-wrapper.jar
+#	new file:   IntelliJIDEAProjects/Sorteio/gradle/wrapper/gradle-wrapper.properties
+#	new file:   IntelliJIDEAProjects/Sorteio/gradlew
+#	new file:   IntelliJIDEAProjects/Sorteio/gradlew.bat
+#	new file:   IntelliJIDEAProjects/Sorteio/settings.gradle
+#
+# Untracked files:
+#	.IdeaIC2018.2/
+#	.Xauthority
+#	.android/
+#	.bash_history
+#	.bash_logout
+#	.bashrc
+#	.cache/
+#	.config/
+#	.dmrc
+#	.eclipse/
+#	.emulator_console_auth_token
+#	.gitconfig
+#	.gksu.lock
+#	.gradle/
+#	.gtkrc-2.0
+#	.icons/
+#	.imwheelrc
+#	.java/
+#	.links2/
+#	.local/
+#	.mozilla/
+#	.oracle_jre_usage/
+#	.pki/
+#	.profile
+#	.swt/
+#	.tooling/
+#	.var/
+#	.xsession-errors
+#	.xsession-errors.old
+#	2018-08-27-21-21-01.003-VBoxSVC-7113.log
+#	Desktop/
+#	Documents/
+#	Downloads/
+#	IntelliJIDEAProjects/JavaTeste/
+#	IntelliJIDEAProjects/ban.apps/
+#	Intellijsdk/
+#	Music/
+#	Pictures/
+#	Videos/
+#	eclipse-workspace/
+#	eclipse/
+#	intellij/
+#	links.txt
+#	"\346\250\241\346\235\277/"
+#
+
